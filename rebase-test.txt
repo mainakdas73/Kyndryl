@@ -1,3 +1,5 @@
 This is the first test before commit - feature-B
 
 This is my second commit in feature-B
+
+This is my third commit in feature-B
