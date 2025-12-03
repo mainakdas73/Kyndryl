@@ -2,3 +2,5 @@ blue
 red
 samosa
 vadapao
+hotel
+restaurant
